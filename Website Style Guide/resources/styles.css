@@ -1,0 +1,95 @@
+
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0 10%;
+    display:block;
+}
+
+div {
+    display:block;
+}
+
+h1 {
+    display:block;
+
+}
+
+p {
+    font-size: larger;
+}
+
+.container {
+    border: 5px solid darkgrey;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 30px auto;
+    min-height: 100px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.dark-grey {
+    background-color: #363636;
+    color: white;
+} 
+
+.black {
+    background-color: #0f0f0f;
+    color: white;
+}
+
+
+.flat-green {
+    background-color: #006959;
+    color: white;
+}
+
+.font-panel {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+.kanit {
+    font-family: 'Kanit', sans-serif;
+}
+.figtree {
+    font-family: 'Figtree', sans-serif;
+}
+
+.extralight {
+    font-weight: 200;
+}
+.light {
+    font-weight: 300;
+}
+.regular {
+    font-weight: normal;
+}
+.semibolditalic {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.paragraph {
+    font-family: 'Kanit', sans-serif;
+    font-weight: normal;
+}
+
+.subheading {
+    font-weight: bold;
+}
